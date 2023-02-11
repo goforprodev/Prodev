@@ -15,5 +15,9 @@
 
 - ⚡ Fun fact **I'm just a man helped of God**
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/goforprodevd1st" target="blank"><img align="center" src="https://raw.githubusercontent.com/goforprodev/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goforprodevd1st" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/promise-okafor-15a3851b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/goforprodev/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="promise-okafor-b89a791b3" height="30" width="40" /></a>
+</p>
 
