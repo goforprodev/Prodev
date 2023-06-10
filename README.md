@@ -15,8 +15,6 @@
 - ⚡ Fun fact **I'm just a man helped of God**
 
 
-  [![Promise's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=goforprodev&&theme=xcode)](https://github.com/goforprodev)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goforprodev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="goforprodev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goforprodev&show_icons=true&locale=en&theme=tokyonight" alt="goforprodev" /></p>
