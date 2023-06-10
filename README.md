@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/goforprodevd1st" target="blank"><img src="https://img.shields.io/twitter/follow/goforprodevd1st?logo=twitter&style=for-the-badge" alt="goforprodevd1st" /></a> </p>
 
-- 🔭 I’m currently working on **Buckoid Android App**
+- 🔭 I’m currently working on **Improving my skills**
 
 - 🌱 I’m currently learning **Blockchain**
 
