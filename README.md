@@ -1,6 +1,5 @@
 ![MasterHead](https://cdn.dribbble.com/userupload/4572402/file/original-2f21572140785d725a013c17720a5951.png?compress=1&resize=1200x300)
-<h1 align="center">How you dey👋, I'm Promise Okafor</h1>
-<h3 align="center">🐨🐨🐨</h3>
+<h1 align="center">Hey there! Welcome to my page</h1>
 
 <p align="left"> <a href="https://twitter.com/goforprodevd1st" target="blank"><img src="https://img.shields.io/twitter/follow/goforprodevd1st?logo=twitter&style=for-the-badge" alt="goforprodevd1st" /></a> </p>
 
