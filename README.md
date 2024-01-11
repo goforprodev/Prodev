@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **goforprodev@gmail.com**
 
-- ⚡ Fun fact **I'm just a man helped of God**
+- ⚡ Fun fact **I'm just a man helped by God**
 
 
 <h3>Github Activity 👇</h3>
